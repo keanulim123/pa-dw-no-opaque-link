@@ -258,7 +258,7 @@ shinyUI(
                # end of key assumptions tab ----
                # Begin All assumptions tab ----
                tabPanel(
-                 "All Assumptions",
+                 "",
                  sidebarPanel(
                    div(id = "All",
                    fluidRow(id = "tPanel",
